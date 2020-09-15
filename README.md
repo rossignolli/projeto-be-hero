@@ -97,7 +97,7 @@ $ npm start ou yarn start
 # A aplicação será aberta na porta:3000 - acesse http://localhost:3000
 ```
 
-### 🧭 Rodando o Mobile
+### 🧭 Como executar o Mobile
 
 ```bash
 # Clone este repositório
