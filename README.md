@@ -158,6 +158,8 @@ Quer conversar?
 
 </p>
 
+Agradecimento ao @ialexanderbrito pelo readme :)
+
 ---
 
 Feito com ❤️ by **Vitor :)**
