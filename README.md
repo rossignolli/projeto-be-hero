@@ -80,7 +80,7 @@ $ npm run dev ou yarn dev
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/ialexanderbrito/be-the-hero
+$ git clone https://github.com/rossignolli/projeto-be-hero
 
 # Acesse a pasta do projeto no seu terminal/cmd
 $ cd be-the-hero
@@ -101,7 +101,7 @@ $ npm start ou yarn start
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/ialexanderbrito/be-the-hero
+$ git clone https://github.com/rossignolli/projeto-be-hero
 
 # Acesse a pasta do projeto no seu terminal/cmd
 $ cd be-the-hero
