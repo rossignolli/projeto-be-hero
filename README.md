@@ -59,7 +59,7 @@ Ferramentas necessárias:
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/ialexanderbrito/be-the-hero
+$ git clone https://github.com/rossignolli/projeto-be-hero
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd be-the-hero
